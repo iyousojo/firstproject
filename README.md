@@ -24,6 +24,11 @@ You can view the live version of this site here:
 - Portfolio project
 - UI/UX layout inspiration
 
+   ⚠ Note
+
+This project is not fully responsive.  
+It may not display correctly on smaller screens or mobile devices. Future updates will improve responsiveness.
+
 ## 🙌 Author
 
 **Iyoubhebhe Johnbull Solomon**  
